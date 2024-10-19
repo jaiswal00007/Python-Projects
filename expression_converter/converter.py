@@ -150,7 +150,6 @@ sys_w=win.winfo_screenwidth()
 sys_h=win.winfo_screenheight()
 w=int(sys_w/2-width/2)
 h=int(sys_h/2-height/2)
-
 s1=""
 s2=""
 expression=tk.StringVar()
